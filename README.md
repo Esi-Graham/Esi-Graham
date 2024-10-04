@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m Data Scientist 
-- 🌱 I’m currently learning a little Quantum Computing
+- 🌱 I’m a Quantum Computing Researcher
 - 👯 I’m looking to collaborate on AI/ML and Quantum Computing projects
 - 📫 How to reach me: [esiedumaba8@gmail.com]
 - 😄 Pronouns: She/Her
