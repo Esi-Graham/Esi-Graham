@@ -1,8 +1,8 @@
 ### Hi I'm Grazia! 👋
 
 
-- 🔭 I’m Data Scientist 
-- 🌱 I’m a Quantum Computing Researcher
+- 🔭 I’m Data Scientist:Computer Vision 
+- 🌱 I’m a Quantum Computing Enthusiast
 - 👯 I’m looking to collaborate on AI/ML and Quantum Computing projects
 - 📫 How to reach me: [esiedumaba8@gmail.com]
 - 😄 Pronouns: She/Her
